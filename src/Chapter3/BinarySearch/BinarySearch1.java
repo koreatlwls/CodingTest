@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 //27 정렬된 배열에서 특정 수의 개수 구하기
-public class BinearySearch1 {
+public class BinarySearch1 {
 
     static int lowerBound(int[] arr, int target, int start, int end) {
         while (start < end) {

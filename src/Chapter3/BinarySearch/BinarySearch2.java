@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 //28 고정점 찾기
-public class BinearySearch2 {
+public class BinarySearch2 {
 
     static int n;
     static int[] arr;
