@@ -8,22 +8,22 @@ private lateinit var graph: Array<MutableList<Node>>
 private lateinit var dist: IntArray
 private const val INF = Integer.MAX_VALUE
 
-//fun main() = with(BufferedReader(InputStreamReader(System.`in`))) {
-//    n = readLine().toInt()
-//    m = readLine().toInt()
-//
-//    graph = Array(n + 1) { mutableListOf() }
-//    dist = IntArray(n + 1) { INF }
-//
-//    repeat(m) {
-//        val (a, b, c) = readLine().split(" ").map { it.toInt() }
-//
-//        graph[a].add(Node(b, c))
-//    }
-//
-//    val (start, end) = readLine().split(" ").map { it.toInt() }
-//    println(dijkstra(start, end))
-//}
+private fun main() = with(BufferedReader(InputStreamReader(System.`in`))) {
+    n = readLine().toInt()
+    m = readLine().toInt()
+
+    graph = Array(n + 1) { mutableListOf() }
+    dist = IntArray(n + 1) { INF }
+
+    repeat(m) {
+        val (a, b, c) = readLine().split(" ").map { it.toInt() }
+
+        graph[a].add(Node(b, c))
+    }
+
+    val (start, end) = readLine().split(" ").map { it.toInt() }
+    println(dijkstra(start, end))
+}
 
 private fun dijkstra(start: Int, end: Int): Int {
     val pq = PriorityQueue<Node>()

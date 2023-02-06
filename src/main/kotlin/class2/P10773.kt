@@ -4,7 +4,7 @@ import java.io.BufferedReader
 import java.io.InputStreamReader
 import java.util.*
 
-fun main() = with(BufferedReader(InputStreamReader(System.`in`))) {
+private fun main() = with(BufferedReader(InputStreamReader(System.`in`))) {
     val t = readLine().toInt()
 
     val stack = Stack<Int>()

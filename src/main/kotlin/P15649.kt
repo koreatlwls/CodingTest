@@ -8,18 +8,18 @@ private val sb = StringBuilder()
 private lateinit var arr: Array<Int>
 private lateinit var visited: Array<Boolean>
 
-//fun main() = with(BufferedReader(InputStreamReader(System.`in`))) {
-//    val st = StringTokenizer(readLine())
-//
-//    n = st.nextToken().toInt()
-//    m = st.nextToken().toInt()
-//    arr = Array(m) { 0 }
-//    visited = Array(n + 1) { false }
-//
-//    dfs(0)
-//
-//    println(sb)
-//}
+private fun main() = with(BufferedReader(InputStreamReader(System.`in`))) {
+    val st = StringTokenizer(readLine())
+
+    n = st.nextToken().toInt()
+    m = st.nextToken().toInt()
+    arr = Array(m) { 0 }
+    visited = Array(n + 1) { false }
+
+    dfs(0)
+
+    println(sb)
+}
 
 private fun dfs(depth : Int){
     if(depth == m){

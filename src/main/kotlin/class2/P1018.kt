@@ -3,41 +3,41 @@ package class2
 import java.io.BufferedReader
 import java.io.InputStreamReader
 
-var nm: List<Int> = listOf()
-var matrix: Array<CharArray> = arrayOf()
-val bw = charArrayOf('B', 'W', 'B', 'W', 'B', 'W', 'B', 'W')
-val wb = charArrayOf('W', 'B', 'W', 'B', 'W', 'B', 'W', 'B')
+private var nm: List<Int> = listOf()
+private var matrix: Array<CharArray> = arrayOf()
+private val bw = charArrayOf('B', 'W', 'B', 'W', 'B', 'W', 'B', 'W')
+private val wb = charArrayOf('W', 'B', 'W', 'B', 'W', 'B', 'W', 'B')
 
-//fun main() = with(BufferedReader(InputStreamReader(System.`in`))) {
-//
-//    nm = readLine()
-//        .split(" ")
-//        .map { it.toInt() }
-//
-//    matrix = Array(nm[0]) { IntArray(nm[1]) }
-//        .map { readLine().toCharArray() }
-//        .toTypedArray()
-//
-//    var xShift = 0
-//    var yShift = 0
-//    var min = nm[0] * nm[1]
-//
-//    while (true) {
-//        if (yShift + 8 > nm[1]) break
-//
-//        min = Math.min(min, check(xShift, yShift))
-//
-//        if (xShift + 8 < nm[0]) xShift++
-//        else {
-//            xShift = 0
-//            yShift++
-//        }
-//    }
-//
-//    println(min)
-//}
+private fun main() = with(BufferedReader(InputStreamReader(System.`in`))) {
 
-fun check(x: Int, y: Int): Int {
+    nm = readLine()
+        .split(" ")
+        .map { it.toInt() }
+
+    matrix = Array(nm[0]) { IntArray(nm[1]) }
+        .map { readLine().toCharArray() }
+        .toTypedArray()
+
+    var xShift = 0
+    var yShift = 0
+    var min = nm[0] * nm[1]
+
+    while (true) {
+        if (yShift + 8 > nm[1]) break
+
+        min = Math.min(min, check(xShift, yShift))
+
+        if (xShift + 8 < nm[0]) xShift++
+        else {
+            xShift = 0
+            yShift++
+        }
+    }
+
+    println(min)
+}
+
+private fun check(x: Int, y: Int): Int {
 
     var cntW = 0
     var cntB = 0
