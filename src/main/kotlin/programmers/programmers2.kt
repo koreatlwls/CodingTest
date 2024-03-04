@@ -1,6 +1,6 @@
 import kotlin.math.ceil
 
-private class Solution {
+class Solution2 {
     fun solution(fees: IntArray, records: Array<String>): IntArray {
         val defaultTime = fees[0]
         val defaultMoney = fees[1]

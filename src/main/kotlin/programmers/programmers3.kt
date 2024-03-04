@@ -1,6 +1,6 @@
 package programmers
 
-private class Solution {
+class Solution3 {
     var list = mutableListOf<String>()
     var arr = charArrayOf('A', 'E', 'I', 'O', 'U')
     fun solution(word: String): Int {

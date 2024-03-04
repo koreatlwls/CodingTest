@@ -1,6 +1,6 @@
 package programmers
 
-private class Solution {
+class Solution1 {
     fun solution(sequence: IntArray, k: Int): IntArray {
         var l = 0
         var r = 0
