@@ -1,6 +1,6 @@
 package programmers
 
-class Solution {
+class Solution51 {
     fun solution(babbling: Array<String>): Int {
         var answer: Int = 0
 
