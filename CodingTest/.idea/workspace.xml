@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c380d45c-2e26-489a-87ec-aa5160b51cfa" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/dijkstra/backjoon1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/dijkstra/backjoon10.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/dijkstra/backjoon2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/dijkstra/backjoon3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/dijkstra/backjoon4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/dijkstra/backjoon5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/dijkstra/backjoon6.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/dijkstra/backjoon7.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/dijkstra/backjoon8.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/dijkstra/backjoon9.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers10.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers11.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers12.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers13.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers14.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers15.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers16.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers17.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers18.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers19.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers20.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers21.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers22.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers23.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers24.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers25.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers26.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers27.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers28.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers29.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers30.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers31.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers32.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers33.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers34.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers35.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers36.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers37.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers38.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers39.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers40.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers41.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers42.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers43.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers44.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers45.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers46.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers47.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers48.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers49.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers50.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers51.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers52.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers53.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers6.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers7.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers8.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/kotlin/programmers/programmers9.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2moutG8clbYzlOmRo102JW0w0vB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.CodingTest 빌드.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/sijin.kim/Projects/CodingTest/CodingTest/src/main/kotlin/Main.kt"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.MainKt" />
+      <module name="CodingTest.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="c380d45c-2e26-489a-87ec-aa5160b51cfa" name="변경" comment="" />
+      <created>1727755463554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727755463554</updated>
+    </task>
+    <servers />
+  </component>
+</project>
